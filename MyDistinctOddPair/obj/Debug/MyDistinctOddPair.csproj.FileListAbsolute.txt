@@ -1,0 +1,6 @@
+d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\bin\Debug\MyDistinctOddPair.exe.config
+d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\bin\Debug\MyDistinctOddPair.exe
+d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\bin\Debug\MyDistinctOddPair.pdb
+d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.csprojResolveAssemblyReference.cache
+d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.exe
+d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.pdb
