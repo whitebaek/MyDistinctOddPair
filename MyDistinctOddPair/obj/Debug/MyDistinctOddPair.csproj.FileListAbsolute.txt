@@ -4,3 +4,9 @@ d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\b
 d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.csprojResolveAssemblyReference.cache
 d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.exe
 d:\my document\visual studio 2013\Projects\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.pdb
+D:\My Document\git\MyDistinctOddPair\MyDistinctOddPair\bin\Debug\MyDistinctOddPair.exe.config
+D:\My Document\git\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.exe
+D:\My Document\git\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.pdb
+D:\My Document\git\MyDistinctOddPair\MyDistinctOddPair\bin\Debug\MyDistinctOddPair.exe
+D:\My Document\git\MyDistinctOddPair\MyDistinctOddPair\bin\Debug\MyDistinctOddPair.pdb
+D:\My Document\git\MyDistinctOddPair\MyDistinctOddPair\obj\Debug\MyDistinctOddPair.csprojResolveAssemblyReference.cache
